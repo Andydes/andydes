@@ -5,11 +5,8 @@
 Soy una diseñadora UX/UI y Project Manager apasionada, caracterizada por mi proactividad y constante búsqueda de conocimiento para aportar valor a mi equipo y al entorno laboral. Mi enfoque no se limita solo a crear experiencias de usuario intuitivas y visualmente atractivas; soy ferviente en combinar diseño y tecnología para desarrollar interfaces eficientes y significativas. Mi naturaleza curiosa me impulsa a estar siempre en la búsqueda de nuevas tendencias, herramientas y metodologías que puedan enriquecer nuestro trabajo y llevar nuestros proyectos a nuevos horizontes.
 
 
-
 ## **🎨 Diseño UX/UI:**
-Experiencia en diseñar flujos de usuario, wireframes y prototipos interactivos.
-Comprometida con la mejora continua de la usabilidad y accesibilidad.
-Enfoque en diseño responsive y centrado en el usuario.
+Mi experiencia en el diseño de flujos de usuario, wireframes y prototipos interactivos se fundamenta en un compromiso inquebrantable con la mejora continua de la usabilidad y accesibilidad. Priorizo el diseño responsive y centrado en el usuario para crear experiencias digitales que no solo satisfacen las expectativas de los usuarios sino que las superan, gracias a una meticulosa atención al detalle y una sólida comprensión de las necesidades del usuario final.
 
 ## **🔄 Colaboración y Gestión de Proyectos:**
 Como Project Manager detallista y organizada, estoy siempre abierta a colaborar en proyectos interesantes y desafiantes. Valoro la importancia de un enfoque detallado para las correcciones y la organización eficiente para asegurar el éxito de cada proyecto. Si tienes una idea o proyecto en mente donde crees que puedo aportar significativamente, ¡no dudes en contactarme!
