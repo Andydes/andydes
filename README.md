@@ -22,3 +22,16 @@ const andrea = {
     openToCollab: true
   }
 }
+
+🎨 UX/UI & Project Management
+🔹 Diseño de experiencias digitales intuitivas y accesibles.
+🔹 Creación de wireframes y prototipos interactivos.
+🔹 Gestión eficiente de proyectos con metodologías ágiles.
+🔹 Coordinación de equipos y planificación estratégica.
+
+🤝 Let's Connect!
+📩 Email: andydes23@gmail.com
+🔗 LinkedIn: Andrea Mariange
+🌐 Portfolio: colourandy.com
+
+📢 "Siempre en búsqueda de nuevas oportunidades y desafíos creativos." 🎯
